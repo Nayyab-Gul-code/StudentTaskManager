@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mechreuo\\source\\repos\\StudentTaskManager\\StudentTaskManager\\StudentTaskManager.csproj": {}
+    "C:\\Users\\falcon\\StudentTaskManager\\StudentTaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mechreuo\\source\\repos\\StudentTaskManager\\StudentTaskManager\\StudentTaskManager.csproj": {
+    "C:\\Users\\falcon\\StudentTaskManager\\StudentTaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mechreuo\\source\\repos\\StudentTaskManager\\StudentTaskManager\\StudentTaskManager.csproj",
+        "projectUniqueName": "C:\\Users\\falcon\\StudentTaskManager\\StudentTaskManager.csproj",
         "projectName": "StudentTaskManager",
-        "projectPath": "C:\\Users\\Mechreuo\\source\\repos\\StudentTaskManager\\StudentTaskManager\\StudentTaskManager.csproj",
-        "packagesPath": "C:\\Users\\Mechreuo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mechreuo\\source\\repos\\StudentTaskManager\\StudentTaskManager\\obj\\",
+        "projectPath": "C:\\Users\\falcon\\StudentTaskManager\\StudentTaskManager.csproj",
+        "packagesPath": "C:\\Users\\falcon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\falcon\\StudentTaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mechreuo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\falcon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
